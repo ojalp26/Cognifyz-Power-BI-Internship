@@ -50,7 +50,8 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 ---
 
-### 📌 Key Learnings  
+## 📌 Key Learnings  
+
 💡 Improved **data visualization and storytelling** using Power BI  
 💡 Gained hands-on experience with **DAX calculations and modeling**  
 💡 Developed **real-world dashboards for investment analysis**  
@@ -65,7 +66,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 ## 📌 Task Breakdown
 
----
+
 
 ### 📊 Task 1: Data Exploration & Summary  
 **Objective:**  
