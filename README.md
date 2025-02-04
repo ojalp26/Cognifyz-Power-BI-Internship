@@ -60,7 +60,7 @@ This internship enhanced my skills in data analytics, business intelligence, and
 
     Objective: Understanding dataset structure and summarizing key statistics.
 
-    🔗 View Task 1 Dashboard
+     View Task 1 Dashboard
 
 
 
