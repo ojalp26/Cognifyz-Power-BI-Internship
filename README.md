@@ -59,61 +59,41 @@ This internship enhanced my skills in data analytics, business intelligence, and
 **📊 Task Breakdown**
 
 
+## 📌 Task Breakdown
 
-| 🔹 Task 1: Data Exploration & Summary |
-|:---------------------------------------|
-| Objective: Understanding dataset structure and summarizing key statistics.
-🔗 View Task 1 Dashboard |
+---
 
+### 📊 Task 1: Data Exploration & Summary  
+**Objective:**  
+- Understand dataset structure  
+- Summarize key statistics  
 
+🔗 [View Task 1 Dashboard](your-link-here)  
 
+---
 
-| 🔹 Task 2: Gender-Based Investment Analysis |
-|:-------------------|
-| Objective : Analyzing investment trends based on gender differences.
-🔗 View Task 2 Dashboard |
+### 📈 Task 2: Gender-Based Investment Analysis  
+**Objective:**  
+- Analyze investment trends based on gender differences  
 
+🔗 [View Task 2 Dashboard](your-link-here)  
 
+---
 
+### 💰 Task 3: Investment Choices Based on Savings Objectives  
+**Objective:**  
+- Identify preferred investment types for different financial goals  
 
-| 🔹 Task 3: Investment Choices Based on Savings Objectives |
-|:-------------------|
-| Objective: Identifying preferred investment types for different financial goals.
-🔗 View Task 3 Dashboard |
+🔗 [View Task 3 Dashboard](your-link-here)  
 
+---
 
+### ⏳ Task 4: Investment Duration & Monitoring Analysis  
+**Objective:**  
+- Study how long investors hold investments  
+- Analyze how often they monitor them  
 
-
-|🔹 Task 4: Investment Duration & Monitoring Analysis |
-|:--------------|
-| Objective: Studying how long investors hold investments and how often they monitor them.
-🔗 View Task 4 Dashboard |
-
-
-
-
-|🔹 Task 5: Reasons for Investment |
-|:------------|
-| Objective: Understanding the primary motivations behind investment decisions.
-🔗 View Task 5 Dashboard |
-
-
-
-
-|🔹 Task 6: Source of Investment Information |
-|:-----------------|
-| Objective: Analyzing where investors get their financial insights.
-🔗 View Task 6 Dashboard |
-
-
-
-
-|🔹 Task 7: Final Dashboard – Complete Investment Overview |
-|:------------|
-| Objective: Combining all insights into a single, interactive dashboard.
-🔗 View Task 7 Dashboard |
-
-
+🔗 [View Task 4 Dashboard](your-link-here)  
 
 
 <br>
