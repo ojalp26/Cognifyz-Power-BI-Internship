@@ -75,7 +75,8 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 1 Dashboard](your-link-here)  
 
-. . . . . . . . . . . . . . . .
+<hr style="height: 1px; background: linear-gradient(to right, #fff, #ccc, #fff); border: none;" />
+
 
 
 
