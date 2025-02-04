@@ -1,7 +1,7 @@
 # 🎯 Cognifyz Power BI Internship
 
 <br>
-<br>
+
 
 ## 📌 Introduction  
 Power BI is a **business intelligence and data visualization tool** by Microsoft. It enables:  
@@ -12,7 +12,7 @@ Power BI is a **business intelligence and data visualization tool** by Microsoft
 Power BI is widely used for **trend analysis, performance tracking, and data-driven strategies.**  
 
 ---
-<br>
+
 
 ## 🚀 Why Do We Need Power BI?  
 - 🔹 **Transforms raw data** into actionable insights  
@@ -21,7 +21,7 @@ Power BI is widely used for **trend analysis, performance tracking, and data-dri
 - 🔹 Helps businesses **identify trends and optimize strategies**  
 
 ---
-<br>
+
 
 ## 📊 About the Project & My Role  
 This project was completed as part of my **Power BI Internship** at **Cognifyz Technologies**.  
@@ -37,7 +37,7 @@ The objective was to **analyze investment trends, financial behaviors, and inves
 This internship enhanced my expertise in **data analytics, business intelligence, and visualization** with real-world **financial datasets**. 🚀  
 
 ---
-<br>
+
 
 ## 🛠 Process Overview  
 
@@ -55,7 +55,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 ✅ Created **custom measures using DAX** to derive insights  
 
 ---
-<br>
+
 
 ## 📌 Key Learnings  
 
@@ -67,7 +67,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 ---
 
-<br>
+
 
 
 
@@ -121,7 +121,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 **Objective:** Analyzing where investors get their financial insights.  
 🔗 [View Task 6 Dashboard](#)  
 
-&nbsp;
+- - - - - - - - - - - -
 
 ### 📈  Task 7: Final Dashboard – Complete Investment Overview  
 **Objective:** Combining all insights into a single, interactive dashboard.  
@@ -129,7 +129,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 ---
 
-<br>
+
 
 ## 📌 Key Takeaways from Analysis  
 
