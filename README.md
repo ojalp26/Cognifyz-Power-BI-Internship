@@ -59,69 +59,63 @@ This internship enhanced my skills in data analytics, business intelligence, and
 | 🔹 Task 1: Data Exploration & Summary |
 |:---------------------------------------|
 | Objective: Understanding dataset structure and summarizing key statistics.
-View Task 1 Dashboard |
+🔗 View Task 1 Dashboard |
 
 
 
-🔹 Task 2: Gender-Based Investment Analysis
-
-    Objective : Analyzing investment trends based on gender differences.
-
-    🔗 View Task 2 Dashboard
-
-
-
-🔹 Task 3: Investment Choices Based on Savings Objectives
-
-    Objective: Identifying preferred investment types for different financial goals.
-
-    🔗 View Task 3 Dashboard
+| 🔹 Task 2: Gender-Based Investment Analysis |
+|:-------------------|
+| Objective : Analyzing investment trends based on gender differences.
+🔗 View Task 2 Dashboard |
 
 
 
-🔹 Task 4: Investment Duration & Monitoring Analysis
-
-    Objective: Studying how long investors hold investments and how often they monitor them.
-
-    🔗 View Task 4 Dashboard
-
-
-
-🔹 Task 5: Reasons for Investment
-
-    Objective: Understanding the primary motivations behind investment decisions.
-
-    🔗 View Task 5 Dashboard
+| 🔹 Task 3: Investment Choices Based on Savings Objectives |
+|:-------------------|
+| Objective: Identifying preferred investment types for different financial goals.
+🔗 View Task 3 Dashboard |
 
 
 
-🔹 Task 6: Source of Investment Information
-
-    Objective: Analyzing where investors get their financial insights.
-
-    🔗 View Task 6 Dashboard
-
+|🔹 Task 4: Investment Duration & Monitoring Analysis |
+|:--------------|
+| Objective: Studying how long investors hold investments and how often they monitor them.
+🔗 View Task 4 Dashboard |
 
 
-🔹 Task 7: Final Dashboard – Complete Investment Overview
 
-    Objective: Combining all insights into a single, interactive dashboard.
+|🔹 Task 5: Reasons for Investment |
+|:------------|
+| Objective: Understanding the primary motivations behind investment decisions.
+🔗 View Task 5 Dashboard |
 
-   🔗 View Task 7 Dashboard
+
+
+|🔹 Task 6: Source of Investment Information |
+|:-----------------|
+| Objective: Analyzing where investors get their financial insights.
+🔗 View Task 6 Dashboard |
+
+
+
+|🔹 Task 7: Final Dashboard – Complete Investment Overview |
+|:------------|
+| Objective: Combining all insights into a single, interactive dashboard.
+🔗 View Task 7 Dashboard |
 
 
 <br>
 
 **📌 Key Takeaways from Analysis**
 
-✅ Young investors dominate the market, with an average age of 27.8 years.
+> ✅ Young investors dominate the market, with an average age of 27.8 years.
 
-✅ Males invest more than females (62.5% vs. 37.5%), with different risk tolerances.
+> ✅ Males invest more than females (62.5% vs. 37.5%), with different risk tolerances.
 
-✅ Top investments include Equity, Mutual Funds, and Fixed Deposits.
+> ✅ Top investments include Equity, Mutual Funds, and Fixed Deposits.
 
-✅ Growth-focused investors prefer Equities, while income-seekers prefer Fixed Deposits & PPF.
+> ✅ Growth-focused investors prefer Equities, while income-seekers prefer Fixed Deposits & PPF.
 
-✅ Medium-term investments (3-5 years) are most common, while long-term investing is less preferred.
+> ✅ Medium-term investments (3-5 years) are most common, while long-term investing is less preferred.
 
-✅ Financial consultants and internet sources are the most trusted investment information channels.
+> ✅ Financial consultants and internet sources are the most trusted investment information channels.
