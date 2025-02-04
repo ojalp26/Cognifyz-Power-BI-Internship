@@ -1,15 +1,15 @@
 # Cognifyz-Power-BI-Internship
 
-# Introduction
+**Introduction**
 Power BI is a powerful business intelligence and data visualization tool developed by Microsoft. It enables users to analyze data, create interactive reports, and gain insights through dashboards. Power BI is widely used in industries for data-driven decision-making, trend analysis, and performance tracking.
 
-# Why Do We Need Power BI?
+**Why Do We Need Power BI?**
 Transforms raw data into actionable insights through visualizations.
 Enables data cleaning, modeling, and relationship management for structured analysis.
 Provides interactive dashboards with slicers, filters, and drill-throughs for better understanding.
 Helps businesses identify trends, optimize strategies, and make informed financial decisions.
 
-# About the Project & My Role
+**About the Project & My Role**
 This project was completed as part of my Power BI Internship at Cognifyz Technologies. The primary goal was to analyze investment trends, financial behaviors, and investor preferences using Power BI. My responsibilities included:
 ✔ Data cleaning & transformation to ensure structured and accurate data.
 ✔ Building relationships & data modeling for effective analysis.
@@ -19,7 +19,7 @@ This project was completed as part of my Power BI Internship at Cognifyz Technol
 
 This internship enhanced my skills in data analytics, business intelligence, and visualization, allowing me to work with real-world financial datasets and investment trends. 🚀
 
-# 🛠 Process Overview
+**🛠 Process Overview**
 1️⃣ Data Cleaning & Preparation
 Imported raw data into Power BI.
 Used Power Query to handle missing values, data types, and inconsistencies.
@@ -31,7 +31,7 @@ Created hierarchies and calculated columns to enhance usability.
 Designed interactive dashboards with filters, slicers, and charts.
 Created custom measures using DAX (Data Analysis Expressions) to derive insights.
 
-# 📊 Task Breakdown
+**📊 Task Breakdown**
 🔹 Task 1: Data Exploration & Summary
 Objective: Understanding dataset structure and summarizing key statistics.
 🔗 View Task 1 Dashboard
@@ -60,7 +60,7 @@ Objective: Analyzing where investors get their financial insights.
 Objective: Combining all insights into a single, interactive dashboard.
 🔗 View Task 7 Dashboard
 
-# 📌 Key Takeaways from Analysis
+**📌 Key Takeaways from Analysis**
 ✅ Young investors dominate the market, with an average age of 27.8 years.
 ✅ Males invest more than females (62.5% vs. 37.5%), with different risk tolerances.
 ✅ Top investments include Equity, Mutual Funds, and Fixed Deposits.
