@@ -57,7 +57,7 @@ This internship enhanced my skills in data analytics, business intelligence, and
 **📊 Task Breakdown**
 
 | 🔹 Task 1: Data Exploration & Summary |
-|---------------------------------------|
+|:---------------------------------------|
 | Objective: Understanding dataset structure and summarizing key statistics.
 View Task 1 Dashboard |
 
