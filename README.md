@@ -76,9 +76,9 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 
 ### 📊 Task 1: Data Exploration & Summary  
-**Objective:**  
-- Understand dataset structure  
-- Summarize key statistics  
+> **Objective:**  
+> - Understand dataset structure  
+> - Summarize key statistics  
 
 🔗 [View Task 1 Dashboard](your-link-here)  
 
