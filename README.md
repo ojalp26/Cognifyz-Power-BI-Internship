@@ -75,7 +75,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 1 Dashboard](your-link-here)  
 
----
+----------------------------------------------
 
 ### 📈 Task 2: Gender-Based Investment Analysis  
 **Objective:**  
