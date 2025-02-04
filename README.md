@@ -80,51 +80,54 @@ This internship enhanced my expertise in **data analytics, business intelligence
 > - Understand dataset structure  
 > - Summarize key statistics  
 
-🔗 [View Task 1 Dashboard](your-link-here)  
+> 🔗 [View Task 1 Dashboard](your-link-here)  
 
 
 
 
 ### 📈 Task 2: Gender-Based Investment Analysis  
-**Objective:**  
-- Analyze investment trends based on gender differences  
+> **Objective:**  
+> - Analyze investment trends based on gender differences  
 
-🔗 [View Task 2 Dashboard](your-link-here)  
+> 🔗 [View Task 2 Dashboard](your-link-here)  
 
 
 
 ### 💰 Task 3: Investment Choices Based on Savings Objectives  
-**Objective:**  
-- Identify preferred investment types for different financial goals  
+> **Objective:**  
+> - Identify preferred investment types for different financial goals  
 
-🔗 [View Task 3 Dashboard](your-link-here)  
+> 🔗 [View Task 3 Dashboard](your-link-here)  
 
 
 
 ### ⏳ Task 4: Investment Duration & Monitoring Analysis  
-**Objective:**  
-- Study how long investors hold investments  
-- Analyze how often they monitor them  
+> **Objective:**  
+> - Study how long investors hold investments  
+> - Analyze how often they monitor them  
 
-🔗 [View Task 4 Dashboard](your-link-here)  
+> 🔗 [View Task 4 Dashboard](your-link-here)  
 
  
 
 ### 💰 Task 5: Reasons for Investment  
-**Objective:** Understanding the primary motivations behind investment decisions.  
-🔗 [View Task 5 Dashboard](#)  
+> **Objective:**
+> - Understanding the primary motivations behind investment decisions.  
+> 🔗 [View Task 5 Dashboard](#)  
 
 
 
 ### 📊 Task 6: Source of Investment Information  
-**Objective:** Analyzing where investors get their financial insights.  
-🔗 [View Task 6 Dashboard](#)  
+> **Objective:**
+> - Analyzing where investors get their financial insights.  
+> 🔗 [View Task 6 Dashboard](#)  
 
 
 
 ### 📈  Task 7: Final Dashboard – Complete Investment Overview  
-**Objective:** Combining all insights into a single, interactive dashboard.  
-🔗 [View Task 7 Dashboard](#)  
+> **Objective:**
+> - Combining all insights into a single, interactive dashboard.  
+> 🔗 [View Task 7 Dashboard](#)  
 
 ---
 
