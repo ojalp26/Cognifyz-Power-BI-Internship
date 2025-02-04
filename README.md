@@ -59,7 +59,6 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 ---
 
-This layout will look **structured, easy to read, and visually engaging** in your **GitHub README**. 🎉 Let me know if you need any refinements! 🚀😊
 
 
 
