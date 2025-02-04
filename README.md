@@ -112,22 +112,25 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 ### 💰 Task 5: Reasons for Investment  
 > **Objective:**
-> - Understanding the primary motivations behind investment decisions.  
+> - Understanding the primary motivations behind investment decisions.
+
 > 🔗 [View Task 5 Dashboard](#)  
 
 
 
 ### 📊 Task 6: Source of Investment Information  
 > **Objective:**
-> - Analyzing where investors get their financial insights.  
+> - Analyzing where investors get their financial insights.
+
 > 🔗 [View Task 6 Dashboard](#)  
 
 
 
 ### 📈  Task 7: Final Dashboard – Complete Investment Overview  
 > **Objective:**
-> - Combining all insights into a single, interactive dashboard.  
-> 🔗 [View Task 7 Dashboard](#)  
+> - Combining all insights into a single, interactive dashboard.
+
+| 🔗 [View Task 7 Dashboard](#) | 
 
 ---
 
