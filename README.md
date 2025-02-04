@@ -54,12 +54,17 @@ This internship enhanced my skills in data analytics, business intelligence, and
 
 <br>
 
+
+
 **📊 Task Breakdown**
+
+
 
 | 🔹 Task 1: Data Exploration & Summary |
 |:---------------------------------------|
 | Objective: Understanding dataset structure and summarizing key statistics.
 🔗 View Task 1 Dashboard |
+
 
 
 
@@ -70,10 +75,12 @@ This internship enhanced my skills in data analytics, business intelligence, and
 
 
 
+
 | 🔹 Task 3: Investment Choices Based on Savings Objectives |
 |:-------------------|
 | Objective: Identifying preferred investment types for different financial goals.
 🔗 View Task 3 Dashboard |
+
 
 
 
@@ -84,10 +91,12 @@ This internship enhanced my skills in data analytics, business intelligence, and
 
 
 
+
 |🔹 Task 5: Reasons for Investment |
 |:------------|
 | Objective: Understanding the primary motivations behind investment decisions.
 🔗 View Task 5 Dashboard |
+
 
 
 
@@ -98,10 +107,13 @@ This internship enhanced my skills in data analytics, business intelligence, and
 
 
 
+
 |🔹 Task 7: Final Dashboard – Complete Investment Overview |
 |:------------|
 | Objective: Combining all insights into a single, interactive dashboard.
 🔗 View Task 7 Dashboard |
+
+
 
 
 <br>
