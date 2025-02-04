@@ -130,7 +130,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 > **Objective:**
 > - Combining all insights into a single, interactive dashboard.
 
-| 🔗 [View Task 7 Dashboard](#) | 
+> 🔗 [View Task 7 Dashboard](#)  
 
 ---
 
