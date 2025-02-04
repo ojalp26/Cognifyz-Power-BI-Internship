@@ -82,8 +82,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 1 Dashboard](your-link-here)  
 
-<hr style="border: 0; border-top: 0.05px solid rgba(255, 255, 255, 0.2);">
-
+<hr style="border: 0; border-top: 1px dotted #f0f0f0;">
 
 
 
@@ -95,7 +94,8 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 2 Dashboard](your-link-here)  
 
-<hr style="border: 0; border-top: 1px solid #fafafa;">
+<hr style="border: 0; border-top: 1px dotted #f0f0f0;">
+
 
 
 ### 💰 Task 3: Investment Choices Based on Savings Objectives  
