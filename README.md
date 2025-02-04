@@ -82,9 +82,6 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 1 Dashboard](your-link-here)  
 
-<hr style="border: 0; border-top: 1px dotted #f0f0f0;">
-
-
 
 
 
@@ -94,8 +91,6 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 2 Dashboard](your-link-here)  
 
-<hr style="border: 0; border-top: 1px dotted #f0f0f0;">
-
 
 
 ### 💰 Task 3: Investment Choices Based on Savings Objectives  
@@ -104,7 +99,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 3 Dashboard](your-link-here)  
 
-&nbsp;
+
 
 ### ⏳ Task 4: Investment Duration & Monitoring Analysis  
 **Objective:**  
@@ -113,19 +108,19 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 4 Dashboard](your-link-here)  
 
-&nbsp; 
+ 
 
 ### 💰 Task 5: Reasons for Investment  
 **Objective:** Understanding the primary motivations behind investment decisions.  
 🔗 [View Task 5 Dashboard](#)  
 
-......................................................................................
+
 
 ### 📊 Task 6: Source of Investment Information  
 **Objective:** Analyzing where investors get their financial insights.  
 🔗 [View Task 6 Dashboard](#)  
 
-- - - - - - - - - - - -
+
 
 ### 📈  Task 7: Final Dashboard – Complete Investment Overview  
 **Objective:** Combining all insights into a single, interactive dashboard.  
