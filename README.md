@@ -82,7 +82,8 @@ This internship enhanced my expertise in **data analytics, business intelligence
 
 🔗 [View Task 1 Dashboard](your-link-here)  
 
-<hr style="border: 0; border-top: 1px solid #f0f0f0;">
+<hr style="border: 0; border-top: 0.05px solid rgba(255, 255, 255, 0.2);">
+
 
 
 
