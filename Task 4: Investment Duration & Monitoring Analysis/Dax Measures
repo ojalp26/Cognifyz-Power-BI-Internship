@@ -1,1 +1,10 @@
+🔹 DAX Measures Used :
 
+
+✅ Total Investors by Monitoring:
+
+Total_Investors_By_Monitoring =  
+CALCULATE(  
+    COUNT('YourTable'[Invest_Monitor]),  
+    ALLEXCEPT('YourTable', 'YourTable'[Invest_Monitor])  
+)  
