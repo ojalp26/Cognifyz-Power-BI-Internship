@@ -1,5 +1,14 @@
 📊 Charts & Visualizations :
 
+✅ 📊 KPI – Total Male and Female Investors
+      • KPI 1: Total Male Investors
+      • KPI 2: Total Female Investors
+      • Purpose: Display the total count of male and female investors for quick reference.
+
+✅ 📊 Slicer – Age by Gender
+      • Purpose: Add a slicer to filter data based on Age and Gender (e.g., showing the average age of male and female investors).
+      • Values: Age, Gender
+      • Purpose: Allow dynamic filtering to observe age-wise distribution by gender.
 
 ✅ 📊 Stacked Bar Chart – Investment Preferences by Gender
       • X-axis: Gender (Male/Female)
@@ -12,8 +21,4 @@
       • Values: Total Investors
       • Purpose: Shows the percentage of male vs. female investors.
 
-✅ 📊 Clustered Column Chart – Savings Objectives by Gender
-      • X-axis: Savings Objectives
-      • Y-axis: Count of Investors
-      • Legend: Gender
-      • Purpose: Understand how savings objectives differ between men and women.
+
