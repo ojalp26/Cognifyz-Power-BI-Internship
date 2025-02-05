@@ -1,29 +1,33 @@
 ✅  Charts & Visualizations
 
 
-📊 Treemap – Total Investment Reasons Count by Category
+📊 Treemap 
+       • Total Investment Reasons Count by Category
+       • Category: Investment Reason
+       • Values: Total Reason Count
+       • Purpose: Highlights the most common investment reasons based on category.
 
-Category: Investment Reason
-Values: Total Reason Count
-Purpose: Highlights the most common investment reasons based on category.
-📊 Pie Chart – Percentage Distribution of Investment Reasons
+📊 Pie Chart 
+       • Percentage Distribution of Investment Reasons
+       •Legend: Investment Reason
+       •Values: Total Investment Reason
+       •Purpose: Shows the proportional distribution of different investment reasons.
 
-Legend: Investment Reason
-Values: Total Investment Reason
-Purpose: Shows the proportional distribution of different investment reasons.
-📊 Line Chart – Count of Investment Reasons by Duration
+📊 Line Chart 
+       • Count of Investment Reasons by Duration
+       • X-axis: Duration
+       • Y-axis: Count of Investment Reasons
+       • Purpose: Tracks how investment reasons change over different durations.
 
-X-axis: Duration
-Y-axis: Count of Investment Reasons
-Purpose: Tracks how investment reasons change over different durations.
-📊 Stacked Column Chart – Investment Reasons Count by Type and Category
+📊 Stacked Column Chart 
+       • Investment Reasons Count by Type and Category
+       • X-axis: Investment Reason
+       • Y-axis: Total Reason Count
+       • Legend: Investment Reason
+       • Purpose: Compares investment reasons across different types and categories.
 
-X-axis: Investment Reason
-Y-axis: Total Reason Count
-Legend: Investment Reason
-Purpose: Compares investment reasons across different types and categories.
-📊 Stacked Bar Chart – Distribution of Investment Reasons
-
-X-axis: Total Reason Count
-Y-axis: Investment Reason
-Purpose: Visualizes how investment reasons are distributed.
+📊 Stacked Bar Chart 
+       • Distribution of Investment Reasons
+       • X-axis: Total Reason Count
+       • Y-axis: Investment Reason
+       • Purpose: Visualizes how investment reasons are distributed.
