@@ -1,1 +1,10 @@
+🔹 DAX Measures Used :
 
+✅ Total Reasons Count:
+
+Total_Reasons_Count = COUNT('YourTable'[Investment Reason])  
+
+
+✅ Total Investment Reasons
+
+Total_Investment_Reasons = COUNT('YourTable'[Investment Reason])  
