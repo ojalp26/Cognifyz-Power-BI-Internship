@@ -120,9 +120,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 > **Objective:**
 > - Analyzing where investors get their financial insights.
 
-> 🔗 [View Task 6 Dashboard](#)  
-
-
+> 🔗 [View Task 6 ](https://github.com/ojalp26/Cognifyz-Power-BI-Internship/tree/main/Task%206%3A%20Analyzing%20Where%20Investors%20Get%20Their%20Insights)
 
 ### 📈  Task 7: Final Dashboard – Complete Investment Overview  
 > **Objective:**
