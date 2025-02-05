@@ -97,8 +97,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 > **Objective:**  
 > - Identify preferred investment types for different financial goals  
 
-> 🔗 [View Task 3 Dashboard](your-link-here)  
-
+> 🔗 [View Task 3 ](https://github.com/ojalp26/Cognifyz-Power-BI-Internship/tree/main/Task%203%3A%20Investment%20Choices%20Based%20on%20Savings%20Objectives)
 
 
 ### ⏳ Task 4: Investment Duration & Monitoring Analysis  
