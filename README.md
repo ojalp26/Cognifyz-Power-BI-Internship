@@ -105,8 +105,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 > - Study how long investors hold investments  
 > - Analyze how often they monitor them  
 
-> 🔗 [View Task 4 Dashboard](your-link-here)  
-
+> 🔗 [View Task 4 ](https://github.com/ojalp26/Cognifyz-Power-BI-Internship/tree/main/Task%204%3A%20Investment%20Duration%20%26%20Monitoring%20Analysis)
  
 
 ### 💰 Task 5: Reasons for Investment  
