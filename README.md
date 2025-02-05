@@ -80,7 +80,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 > - Understand dataset structure  
 > - Summarize key statistics  
 
-> 🔗 [View Task 1 Dashboard](your-link-here)  
+> 🔗 [View Task 1 ](https://github.com/ojalp26/Cognifyz-Power-BI-Internship/tree/main/Task%201%3A%20Data%20Exploration%20%26%20Summary) 
 
 
 
