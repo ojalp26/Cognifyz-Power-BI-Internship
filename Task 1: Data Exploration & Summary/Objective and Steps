@@ -1,0 +1,24 @@
+📝 Task 1: Data Exploration and Summary
+
+🎯 Objective  
+Understand and summarize key statistics in the dataset.
+
+🚀 Steps  
+
+1. 📂 Data Import 
+   - Import the dataset into Power BI.
+
+2. 🔍 Exploratory Analysis  
+   - Explore the dataset structure and identify data types.
+
+3. 📊 Calculate Statistics  
+   - Compute key metrics such as:  
+     - Average Age  
+     - Percentage of individuals with various saving objective.
+     - Investment preerence across different age groups.  
+
+4. 📈 Visualization  
+   - Create insightful charts for effective representation of summary statistics.
+
+
+
