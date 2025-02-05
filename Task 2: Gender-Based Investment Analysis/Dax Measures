@@ -1,1 +1,11 @@
+🔹 Key DAX Measures:
+
+1️⃣ Total Male Investors:
+Total_Male_Investors = CALCULATE(COUNT('YourTable'[InvestorID]), 'YourTable'[Gender] = "Male")
+
+2️⃣ Total Female Investors
+Total_Female_Investors = CALCULATE(COUNT('YourTable'[InvestorID]), 'YourTable'[Gender] = "Female")
+
+3️⃣ Investment Count by Gender (Counts investments based on gender)
+Investment_By_Gender = COUNT('YourTable'[Investment Type])
 
