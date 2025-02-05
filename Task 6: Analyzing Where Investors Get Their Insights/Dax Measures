@@ -1,1 +1,13 @@
+🔹 DAX Measures Used :
 
+✅ Total Sources
+
+Total_Sources = COUNT('YourTable'[Source])  
+
+
+✅ Source Percentage
+
+Source_Percentage =  
+VAR TotalResponses = COUNT('YourTable'[Source])  
+RETURN  
+    DIVIDE( TotalResponses, CALCULATE(COUNT('YourTable'[Source]), ALL('YourTable')), 0 ) * 100
