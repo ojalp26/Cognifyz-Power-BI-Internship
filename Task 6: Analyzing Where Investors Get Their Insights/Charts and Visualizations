@@ -1,0 +1,29 @@
+✅ Recommended Charts & Visualizations
+
+📊 KPI – Total Investors
+
+Purpose: Displays the total number of investors.
+🎛 Slicer – Gender (Male/Female)
+
+Purpose: Allows filtering of data based on gender.
+📊 Bar Chart – Count of Sources
+
+X-axis: Total Sources
+Y-axis: Source
+Purpose: Shows the number of sources used for investments.
+📊 Treemap – Total Sources
+
+Category: Source
+Values: Total Sources
+Purpose: Highlights the most common investment sources.
+📊 Pie Chart – Source Percentage
+
+Legend: Source
+Values: Source Percentage
+Purpose: Displays the percentage distribution of investment sources.
+📊 Clustered Column Chart – Total Sources by Age
+
+X-axis: Age
+Y-axis: Total Sources
+Legend: Source
+Purpose: Compares investment sources across different age groups
