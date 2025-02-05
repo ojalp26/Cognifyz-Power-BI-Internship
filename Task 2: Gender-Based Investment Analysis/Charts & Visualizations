@@ -1,0 +1,19 @@
+📊 Charts & Visualizations :
+
+
+✅ 📊 Stacked Bar Chart – Investment Preferences by Gender
+      • X-axis: Gender (Male/Female)
+      • Y-axis: Count of Investment Types
+      • Legend: Investment Type
+      • Purpose: Compare investment distribution among males and females.
+
+✅ 📊 Pie Chart – Gender Distribution
+      • Legend: Gender
+      • Values: Total Investors
+      • Purpose: Shows the percentage of male vs. female investors.
+
+✅ 📊 Clustered Column Chart – Savings Objectives by Gender
+      • X-axis: Savings Objectives
+      • Y-axis: Count of Investors
+      • Legend: Gender
+      • Purpose: Understand how savings objectives differ between men and women.
