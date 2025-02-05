@@ -1,1 +1,190 @@
+🔹 DAX Measures Used:
 
+Investor Count By Objective:
+
+
+1️⃣ Investors_Equity_By_Objective
+
+Investors_Equity_By_Objective = 
+CALCULATE(
+    COUNTROWS('YourTable'),
+    'YourTable'[Equity] > 0,
+    FILTER(
+        'YourTable',
+        'YourTable'[Objective] = MAX('YourTable'[Objective])
+    )
+)
+---------------------------------------------------------------------
+2️⃣ Investors_Mutual_Funds_By_Objective
+
+Investors_Mutual_Funds_By_Objective = 
+CALCULATE(
+    COUNTROWS('YourTable'),
+    'YourTable'[Mutual Funds] > 0,
+    FILTER(
+        'YourTable',
+        'YourTable'[Objective] = MAX('YourTable'[Objective])
+    )
+)
+-----------------------------------------------------------------
+3️⃣ Investors_Government_Bonds_By_Objective
+
+Investors_Government_Bonds_By_Objective = 
+CALCULATE(
+    COUNTROWS('YourTable'),
+    'YourTable'[Government Bonds] > 0,
+    FILTER(
+        'YourTable',
+        'YourTable'[Objective] = MAX('YourTable'[Objective])
+    )
+)
+-------------------------------------------------------------------
+4️⃣ Investors_Debentures_By_Objective
+
+Investors_Debentures_By_Objective = 
+CALCULATE(
+    COUNTROWS('YourTable'),
+    'YourTable'[Debentures] > 0,
+    FILTER(
+        'YourTable',
+        'YourTable'[Objective] = MAX('YourTable'[Objective])
+    )
+)
+--------------------------------------------------------------------
+5️⃣ Investors_Fixed_Deposits_By_Objective
+
+Investors_Fixed_Deposits_By_Objective = 
+CALCULATE(
+    COUNTROWS('YourTable'),
+    'YourTable'[Fixed Deposits] > 0,
+    FILTER(
+        'YourTable',
+        'YourTable'[Objective] = MAX('YourTable'[Objective])
+    )
+)
+---------------------------------------------------------------------
+6️⃣ Investors_Gold_By_Objective
+
+Investors_Gold_By_Objective = 
+CALCULATE(
+    COUNTROWS('YourTable'),
+    'YourTable'[Gold] > 0,
+    FILTER(
+        'YourTable',
+        'YourTable'[Objective] = MAX('YourTable'[Objective])
+    )
+)
+----------------------------------------------------------------------
+7️⃣ Investors_PPF_By_Objective
+
+Investors_PPF_By_Objective = 
+CALCULATE(
+    COUNTROWS('YourTable'),
+    'YourTable'[PPF] > 0,
+    FILTER(
+        'YourTable',
+        'YourTable'[Objective] = MAX('YourTable'[Objective])
+    )
+)
+---------------------------------------------------------------------------
+Explanation:
+
+1) COUNTROWS counts the number of rows for a given investment type (e.g., Equity, Mutual Funds, etc.) for each Objective.
+2) The FILTER function ensures that only the rows with investments in the specified type are counted.
+3) The MAX function is used within the Objective column to ensure that the calculation applies to the currently selected objective.
+______________________________________________________________________________________________________________________________________________________________________
+
+Investment Percentage By Objectives :
+
+
+1️⃣ Equity Investment Percentage By Objective
+
+Equity_Investment_Percentage_By_Objective = 
+VAR TotalInvestors = 
+    CALCULATE(COUNTROWS('YourTable'), ALLEXCEPT('YourTable', 'YourTable'[Objective])) 
+RETURN 
+    DIVIDE(
+        COUNTROWS(FILTER('YourTable', 'YourTable'[Equity] = 1)), 
+        TotalInvestors, 
+        0
+    )
+------------------------------------------------------------------------------------------
+2️⃣ Mutual Funds Investment Percentage By Objective
+
+Mutual_Funds_Investment_Percentage_By_Objective = 
+VAR TotalInvestors = 
+    CALCULATE(COUNTROWS('YourTable'), ALLEXCEPT('YourTable', 'YourTable'[Objective])) 
+RETURN 
+    DIVIDE(
+        COUNTROWS(FILTER('YourTable', 'YourTable'[Mutual Funds] = 1)), 
+        TotalInvestors, 
+        0
+    )
+-------------------------------------------------------------------------------------------
+3️⃣ Government Bonds Investment Percentage By Objective
+
+Government_Bonds_Investment_Percentage_By_Objective = 
+VAR TotalInvestors = 
+    CALCULATE(COUNTROWS('YourTable'), ALLEXCEPT('YourTable', 'YourTable'[Objective])) 
+RETURN 
+    DIVIDE(
+        COUNTROWS(FILTER('YourTable', 'YourTable'[Government Bonds] = 1)), 
+        TotalInvestors, 
+        0
+    )
+-------------------------------------------------------------------------------------------
+4️⃣ Debentures Investment Percentage By Objective
+
+Debentures_Investment_Percentage_By_Objective = 
+VAR TotalInvestors = 
+    CALCULATE(COUNTROWS('YourTable'), ALLEXCEPT('YourTable', 'YourTable'[Objective])) 
+RETURN 
+    DIVIDE(
+        COUNTROWS(FILTER('YourTable', 'YourTable'[Debentures] = 1)), 
+        TotalInvestors, 
+        0
+    )
+---------------------------------------------------------------------------------------------
+5️⃣ Fixed Deposits Investment Percentage By Objective
+
+Fixed_Deposits_Investment_Percentage_By_Objective = 
+VAR TotalInvestors = 
+    CALCULATE(COUNTROWS('YourTable'), ALLEXCEPT('YourTable', 'YourTable'[Objective])) 
+RETURN 
+    DIVIDE(
+        COUNTROWS(FILTER('YourTable', 'YourTable'[Fixed Deposits] = 1)), 
+        TotalInvestors, 
+        0
+    )
+----------------------------------------------------------------------------------------------
+6️⃣ Gold Investment Percentage By Objective
+
+Gold_Investment_Percentage_By_Objective = 
+VAR TotalInvestors = 
+    CALCULATE(COUNTROWS('YourTable'), ALLEXCEPT('YourTable', 'YourTable'[Objective])) 
+RETURN 
+    DIVIDE(
+        COUNTROWS(FILTER('YourTable', 'YourTable'[Gold] = 1)), 
+        TotalInvestors, 
+        0
+    )
+-----------------------------------------------------------------------------------------------
+7️⃣ PPF Investment Percentage By Objective
+
+PPF_Investment_Percentage_By_Objective = 
+VAR TotalInvestors = 
+    CALCULATE(COUNTROWS('YourTable'), ALLEXCEPT('YourTable', 'YourTable'[Objective])) 
+RETURN 
+    DIVIDE(
+        COUNTROWS(FILTER('YourTable', 'YourTable'[PPF] = 1)), 
+        TotalInvestors, 
+        0
+    )
+---------------------------------------------------------------------------------------------------
+Explanation:
+
+Each DAX measure calculates the percentage of investors who invested in a specific investment type (Equity, Mutual Funds, Government Bonds, etc.) by Objective. It calculates the percentage by:
+      1) Getting the total number of investors for each objective.
+      2) Dividing the count of investors who have the respective investment type (e.g., Equity) by the total investors.
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
