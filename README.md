@@ -89,7 +89,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 > **Objective:**  
 > - Analyze investment trends based on gender differences  
 
-> 🔗 [View Task 2 Dashboard](your-link-here)  
+> 🔗 [View Task 2 ](https://github.com/ojalp26/Cognifyz-Power-BI-Internship/tree/main/Task%202%3A%20Gender-Based%20Investment%20Analysis) 
 
 
 
