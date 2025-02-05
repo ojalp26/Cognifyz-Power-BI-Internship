@@ -1,1 +1,12 @@
+🔹 Key DAX Measures Used:
+
+
+1️⃣ Total Investors Count (Counts the number of investors):
+Total_Investors = COUNT('YourTable'[InvestorID]) 
+
+2️⃣ Average Age of Investors (Finds the average age):
+Avg_Age = AVERAGE('YourTable'[Age])
+
+3️⃣ Investment Type Distribution (Counts the occurrences of each investment type):
+Investment_Type_Count = COUNT('YourTable'[Investment Type])
 
