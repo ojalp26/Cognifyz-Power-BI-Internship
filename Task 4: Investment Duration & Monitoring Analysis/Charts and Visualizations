@@ -1,0 +1,26 @@
+✅ Charts & Visualizations :
+
+
+📊 KPI Card
+    • Total Investors
+    • Purpose: Displays the total number of investors.
+
+🎛 Slicer 
+    • Total Investments Across Different Durations
+    • Purpose: Allows filtering of investments based on duration.
+
+📊 Bar Chart – Total Monitoring Frequency
+    • X-axis: Total Monitoring
+    • Y-axis: Total Number of Monitoring
+    • Purpose: Visualizes how frequently investments are monitored.
+
+📊 Bar Chart – Number of Investors Across Investment Durations
+   • X-axis: Investment Duration
+   • Y-axis: Total Number of Investors
+   • Purpose: Shows the distribution of investors across different investment timeframes.
+
+📊 Clustered Column Chart 
+   • Total Investments Across Different Durations
+   • X-axis: Investment Duration
+   • Y-axis: Gold, Fixed Deposits, PPF, Mutual Funds, Equity Market, Debentures, Government Bonds
+   • Purpose: Compares different investment types based on duration.
