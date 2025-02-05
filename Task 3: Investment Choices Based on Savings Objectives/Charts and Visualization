@@ -1,0 +1,21 @@
+📊 Charts & Visualizations
+
+✅ 📊 Stacked Column Chart – Investment Distribution by Objective
+• X-axis: Savings Objective
+• Y-axis: Investment Percentage
+• Legend: Investment Type (Gold, PPF, Mutual Funds, Fixed Deposits, Equity Market, Debentures, Government Bonds)
+• Purpose: Shows the percentage distribution of each investment type across different savings objectives.
+
+✅ 🎛 Investment Objective Slicer
+• Field: Savings Objective
+• Purpose: Allows users to filter investment data based on different savings goals.
+
+✅ 📊 KPI Metrics – Total Investments by Type
+• KPI 1: Gold
+• KPI 2: PPF
+• KPI 3: Mutual Funds
+• KPI 4: Fixed Deposits
+• KPI 5: Equity Market
+• KPI 6: Debentures
+• KPI 7: Government Bonds
+• Purpose: Provides a quick overview of total investments in each category.
