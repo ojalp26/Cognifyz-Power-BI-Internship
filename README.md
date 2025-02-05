@@ -63,7 +63,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 💡 Gained hands-on experience with **DAX calculations and modeling**  
 💡 Developed **real-world dashboards for investment analysis**  
 
-🔗 **Check out my Power BI Dashboards!** 👉 [Dashboard Link](#)  
+🔗 **Check out my Power BI Dashboards!** 👉 [Dashboard Link](https://www.linkedin.com/posts/ojal-paturday-7246ab321_powerbi-dataanalytics-dashboarddesign-activity-7292244711044444160-zyR2?utm_source=share&utm_medium=member_desktop)  
 
 ---
 
