@@ -126,7 +126,7 @@ This internship enhanced my expertise in **data analytics, business intelligence
 > **Objective:**
 > - Combining all insights into a single, interactive dashboard.
 
-> 🔗 [View Task 7 Dashboard](#)  
+> 🔗 [View Task 7 ](https://github.com/ojalp26/Cognifyz-Power-BI-Internship/tree/main/Task%207%3A%20Final%20Dashboard%20%E2%80%93%20Complete%20Investment%20Overview)  
 
 ---
 
